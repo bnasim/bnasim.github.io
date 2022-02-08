@@ -1,6 +1,6 @@
 ---
 title: "Using Retrofit with Kotlin in Android"
-date: 2022-02-08T15:34:30-04:00
+date: 2022-02-08T15:34:30-03:00
 categories:
   - blog
 tags:
