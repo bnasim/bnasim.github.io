@@ -10,4 +10,4 @@ I am a tech enthusiast. Live in beautiful Vancouver, British Columbia Canada. Wo
 I thought about sharing my knowledge in my blog so that others who are learning can be helpful too.
 
 Besides coding, I love hiking and exploring nature.
-![Nasim Banu Photograph](/assets/Nasim_Photo.jpg)
+![Nasim Banu Photograph](/assets/images/Nasim_Photo.jpg)
