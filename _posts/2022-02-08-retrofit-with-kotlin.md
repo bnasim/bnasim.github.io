@@ -8,7 +8,6 @@ tags:
   - Retrofit
 ---
 
-# Using Retrofit with Kotlin in Android
 
  I will discuss Android concepts based on an app/project. So we are going to build an app called MyNews. The description of the project is as follows.
 
@@ -29,13 +28,13 @@ tags:
 
 ![alt_text](/assets/images/image1.png "home screen")
 
-    The application will have several tabs:
+The application will have several tabs:
 
 * Top Stories.
 * Most Popular.
 * Subjects that interest you (Business, Sports and Arts, etc). Feel free to add as many subjects as you like.
 
-    When you click on an article, the article should be shown in a WebView.
+When you click on an article, the article should be shown in a WebView.
 
 
     A magnifying glass icon should be displayed, and when pressed, it should allow you to search all articles in the New York Times database (not just the articles currently shown on the screen). Here's the search screen to come up with:
@@ -65,6 +64,7 @@ So the tasks are
 * DiffUtil and data binding with RecyclerView.
 * Add recyclerView in Activity or Fragment
 * Apply MVVM design pattern.
+
        ViewModel & ViewModelProvider
        LiveData & Livedata Observers
        DataBinding with ViewModel & LiveData.
