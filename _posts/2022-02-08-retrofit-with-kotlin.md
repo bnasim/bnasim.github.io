@@ -36,8 +36,7 @@ The application will have several tabs:
 
 When you click on an article, the article should be shown in a WebView.
 
-
-    A magnifying glass icon should be displayed, and when pressed, it should allow you to search all articles in the New York Times database (not just the articles currently shown on the screen). Here's the search screen to come up with:
+A magnifying glass icon should be displayed, and when pressed, it should allow you to search all articles in the New York Times database (not just the articles currently shown on the screen). Here's the search screen to come up with:
 
 
 ![alt_text](/assets/images/image2.png "search screen")
