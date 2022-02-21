@@ -9,10 +9,6 @@ tags:
   - Android
 ---
 
-
-# Getting data from New York Times API, loading that in RecyclerView.
-
-
  We will use Retrofit to get data from the New York Times API.
 
 
