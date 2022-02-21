@@ -1,6 +1,6 @@
 ---
 title: "Get data from News API and show it in RecyclerView"
-date: 2022-02-21T15:34:30-03:00
+date: 2022-02-20T15:34:30-03:00
 categories:
   - blog
 tags:
