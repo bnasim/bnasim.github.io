@@ -18,7 +18,7 @@ tags:
 [https://square.github.io/retrofit/](https://square.github.io/retrofit/)
 
 
-# steps to create a retrofit android example   
+## steps to create a retrofit android example   
 
 * Add the retrofit dependency
 * Creating Model Class
@@ -27,7 +27,7 @@ tags:
 * Consume The REST Web Service
 * Set Retrofit response data into the Recyclerview
 
-# Add the retrofit dependency   
+## Add the retrofit dependency   
 
  First, Add Internet Permission to your Application in  AndroidManifest.xml 
 
@@ -52,7 +52,7 @@ And the GSON converter from retrofit used to convert the JSON response from the 
  implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
 ```
 
-# Creating Model Class
+## Creating Model Class
     
 
 You need to signup with the New York Times to access their API from here.[https://developer.nytimes.com/](https://developer.nytimes.com/)
@@ -69,13 +69,13 @@ Before creating the model, you need to know what type of response we will be rec
 
 
 
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](/assets/images/image5.png "New York time API")
 
 
 I will use a plugin to convert this response to the data models. Please install the plugin “Kotlin data class file from Json”. Paste json response as shown in picture, it will create data models for you.
 
 
-![alt_text](images/image6.png "image_tooltip")
+![alt_text](/assets/images/image6.png "Kotlin plugin")
 
 
 So these are the data models created for us.
